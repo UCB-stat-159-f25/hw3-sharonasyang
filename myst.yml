@@ -3,7 +3,7 @@ version: 1
 project:
   id: 3fcb4f79-4f1c-4c60-9cb0-269ede1bedee
   title: STAT 159 HW3
-  description: temporary description2
+  description: temporary description2 
   # keywords: []
   authors: [Sharona Yang]
   github: https://github.com/UCB-stat-159-f25/hw3-sharonasyang
