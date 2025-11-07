@@ -94,3 +94,4 @@ def plot_detectors(time, timemax, SNR, pcolor, det, eventname, plottype, tevent,
     plt.ylabel('strain noise ASD (strain/rtHz), template h(f)*rt(f)')
     plt.legend(loc='upper left')
     plt.title(det+' ASD and template around event')
+    plt.savefig('figures/' + eventname+"_"+det+"_matchfreq."+plottype)
