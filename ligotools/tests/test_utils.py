@@ -1,7 +1,6 @@
 import pytest
 from ligotools import write_wavfile
 from ligotools import reqshift
-from scipy.interpolate import interp1d
 import numpy as np
 from scipy.io import wavfile
 
