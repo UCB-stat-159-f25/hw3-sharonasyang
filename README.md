@@ -2,4 +2,4 @@
 
 This repo focuses on binary black hole signals in LIGO open data and is a continuation of [LIGO repo for HW2](https://github.com/UCB-stat-159-f25/hw-2-sharonasyang). With the files in the repo, any user can run the LOSC_Event_tutorial file by clicking on the Binder link below, which can be run without the user installing anything locally. Building on top of the HW 2 repo, the output (data, figures, and audio) are stored in their own folders. Previously, ligotools was useable as a local package only, but it is now available as an installable package. This repo also includes tests for some ligotool functions and can be built as a proper MyST.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.2i2c.mybinder.org/user/ucb-stat-159-f2-w3-sharonasyang-d2mmj8yg/doc/tree/LOSC_Event_tutorial.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.2i2c.mybinder.org/user/ucb-stat-159-f2-w3-sharonasyang-2u5elj9i/doc/workspaces/auto-S/tree/LOSC_Event_tutorial.ipynb)
